@@ -54,5 +54,5 @@
 [gmail]: mailto:mkhorshidian72@gmail.com
 [whatsapp]: https://wa.me/989375066139
 [telegram]: https://telegram.me/thismajid
-[skype]: 
+[skype]: https://join.skype.com/invite/zPS86gQcCkVb
 [instagram]: https://www.instagram.com/this.majid
