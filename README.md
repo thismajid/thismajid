@@ -1,4 +1,4 @@
-### Hi there, I'm Sabesan Sathananthan - [Majidev][website] <img src="./Icons/Hi.gif" height="32" />
+### Hi there, I'm Majid Khorshidian - [Majidev][website] <img src="./Icons/Hi.gif" height="32" />
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
