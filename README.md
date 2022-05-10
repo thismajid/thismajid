@@ -16,6 +16,7 @@ const majid = {
   },
 };
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thismajid)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 Check out my repos ⬇️  
