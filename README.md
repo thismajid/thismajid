@@ -22,9 +22,9 @@ const majid = {
 };
 ```
 
-
-  [![Majid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thismajid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=thismajid)](https://github.com/anuraghazra/github-readme-stats)
+  [![Majid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thismajid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
