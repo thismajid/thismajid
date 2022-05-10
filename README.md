@@ -2,6 +2,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red)
 
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thismajid)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thismajid/)
+
+
 ### About Me
 
 ```javascript
