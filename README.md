@@ -23,12 +23,7 @@ const majid = {
 ```
 
 <center>
-  <table>
-    <tr>
-        <td>[![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=thismajid)](https://github.com/anuraghazra/github-readme-stats)</td>
-        <td>[![Majid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thismajid)](https://github.com/anuraghazra/github-readme-stats)</td>
-    </tr>   
-  </table>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thismajid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </center>
 
 
