@@ -5,8 +5,8 @@
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thismajid)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thismajid/)
+<a href="mailto:mkhorshidian72@gmail.com"><img src="https://raw.githubusercontent.com/thismajid/thismajid/master/SocialLogo/Gmail.png" width="48"></a>
 <img src="https://raw.githubusercontent.com/thismajid/thismajid/master/SocialLogo/WhatsApp.png" width="48">
-<img src="https://raw.githubusercontent.com/thismajid/thismajid/master/SocialLogo/Gmail.png" width="48">
 <img src="https://raw.githubusercontent.com/thismajid/thismajid/master/SocialLogo/LinkedIn.png" width="48">
 
 
