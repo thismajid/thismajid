@@ -7,11 +7,12 @@
 <a href="https://www.linkedin.com/in/thismajid"><img src="https://raw.githubusercontent.com/thismajid/thismajid/master/SocialLogo/LinkedIn.png" width="28"></a>
 <a href="https://join.skype.com/EooiODftb6bD"><img src="https://github.com/thismajid/thismajid/blob/master/SocialLogo/Skype.png" width="28"></a>
 <a href="https://t.me/thismajid"><img src="https://github.com/thismajid/thismajid/blob/master/SocialLogo/Telegram.png" width="28"></a>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red)
 </p>
 
 
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red)
+  
 
 
 
