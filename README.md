@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm Majid Khorshidian, Backend Developer :technologist: ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red)
+## ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red) Hi there 👋 Welcome to my GitHub! I'm Majid Khorshidian, Backend Developer :technologist: 
 
 
 <p align="center">
@@ -32,6 +32,7 @@ const majid = {
   },
 };
 ```
+
 
   [![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=thismajid)](https://github.com/anuraghazra/github-readme-stats)
   [![Majid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thismajid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
