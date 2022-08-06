@@ -8,12 +8,17 @@
 <a href="https://www.linkedin.com/in/thismajid"><img src="https://raw.githubusercontent.com/thismajid/thismajid/master/SocialLogo/LinkedIn.png" width="28"></a>
 <a href="https://join.skype.com/EooiODftb6bD"><img src="https://github.com/thismajid/thismajid/blob/master/SocialLogo/Skype.png" width="28"></a>
 <a href="https://t.me/thismajid"><img src="https://github.com/thismajid/thismajid/blob/master/SocialLogo/Telegram.png" width="28"></a>
+</p>
   
-  </p>
-  
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 
 ### About Me
