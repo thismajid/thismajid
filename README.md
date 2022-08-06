@@ -33,21 +33,13 @@ const majid = {
 };
 ```
 
-
-  [![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=thismajid)](https://github.com/anuraghazra/github-readme-stats)
-  [![Majid's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thismajid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<p align="center">
-Check out my repos ⬇️  
-</p>
-
-
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thismajid&theme=github_dark" alt="thismajid" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thismajid&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="thismajid" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thismajid&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="thismajid" align = "center"/></p>
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
