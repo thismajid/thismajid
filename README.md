@@ -10,6 +10,7 @@
 <a href="https://join.skype.com/EooiODftb6bD"><img src="https://github.com/thismajid/thismajid/blob/master/SocialLogo/Skype.png" width="28"></a>
 <a href="https://t.me/thismajid"><img src="https://github.com/thismajid/thismajid/blob/master/SocialLogo/Telegram.png" width="28"></a>
   
+  </p>
   
 
 
