@@ -1,4 +1,4 @@
-## ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red) Hi there 👋 Welcome to my GitHub! I'm Majid Khorshidian, Backend Developer :technologist: 
+## Hi there 👋 Welcome to my GitHub! I'm Majid Khorshidian, Backend Developer :technologist: ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red) 
 
 ### About Me
 
