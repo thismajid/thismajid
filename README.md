@@ -14,9 +14,9 @@
     </a>
   </div>
    <img src="https://komarev.com/ghpvc/?username=thismajid&style=flat-square&color=blue" alt=""/>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red) 
 </div>
 
+ #![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red) 
 
 ### About Me
 
