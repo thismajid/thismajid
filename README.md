@@ -1,5 +1,9 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Majid Khorshidian, Backend Developer :technologist: ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red) 
 
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b761160b85559dd21f40759881fa460aa075d237d06b9&rid=giphy.gif" width="100"/>
+</div>
+
 ### About Me
 
 ```javascript
