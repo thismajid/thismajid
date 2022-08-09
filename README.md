@@ -16,8 +16,6 @@
    <img src="https://komarev.com/ghpvc/?username=thismajid&style=flat-square&color=blue" alt=""/>
 </div>
 
- #![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red) 
-
 ### About Me
 
 ```javascript
