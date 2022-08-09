@@ -12,8 +12,8 @@
     <a href="https://t.me/thismajid">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=thismajid&style=flat-square&color=blue" alt=""/>
   </div>
+   <img src="https://komarev.com/ghpvc/?username=thismajid&style=flat-square&color=blue" alt=""/>
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=thismajid&left_color=green&right_color=red) 
 </div>
 
